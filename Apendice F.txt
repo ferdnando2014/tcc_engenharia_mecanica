@@ -1,0 +1,8 @@
+# Use: pip install -r requirements_appendices.txt
+
+numpy
+pandas
+matplotlib
+scikit-learn
+xlsxwriter
+openpyxl # leitor .xlsx para o pandas (engine recomendado)
